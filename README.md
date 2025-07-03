@@ -16,6 +16,18 @@ Repo: https://github.com/ABIDULLAH786/mobile-ki-market/
 
 --------------------------------
 
+# Career Page and apply UI
+
+Demo: https://digi-learners-career.vercel.app/
+
+Repo: https://github.com/ABIDULLAH786/Career-Page/
+
+![screencapture-httpsapplydigilearnersnet-git-master-abidullah786-vercel-app-2025-07-03-04_57_38](https://github.com/user-attachments/assets/011024f2-1bbe-4037-b9eb-2448bb80ff74)
+
+![screencapture-httpsapplydigilearnersnet-git-master-abidullah786-vercel-app-register-2025-07-03-04_57_51](https://github.com/user-attachments/assets/eac78ffb-34a4-4f41-967b-dd2e8f933ac0)
+
+------------------
+
 ## Task Mmanagement Web App (UI Only)
 
 Demo: https://task-management-web-app-eight.vercel.app/
@@ -50,7 +62,25 @@ Repo: https://github.com/ABIDULLAH786/SMS-Dashboad-Reactjs
 ![image](https://github.com/user-attachments/assets/7e813778-bc8e-4d5d-b6cf-595a0d87215b)
 
 ----------
+## Dashboard Template (React + SCSS)
 
+Demo: https://react-dashboard-scss.vercel.app/dashboard
+
+Repo: https://github.com/ABIDULLAH786/react-dashboard-scss
+
+![screencapture-react-dashboard-scss-vercel-app-dashboard-2025-07-03-04_34_54](https://github.com/user-attachments/assets/248ff821-6150-4d3f-adf9-9f36f98fa6e1)
+
+
+--------------------
+## Sample Dashboard (React + Tailwind)
+
+Demo: https://react-tailwind-dashboard-sample.vercel.app/dashboard/admin
+
+Repo: https://github.com/ABIDULLAH786/react-tailwind-dashboard
+
+![screencapture-react-tailwind-dashboard-sample-vercel-app-dashboard-admin-2025-07-03-04_41_04](https://github.com/user-attachments/assets/c003ccf2-7e8d-420d-8b57-780bfc302f1d)
+
+------------------
 ## Chat Room Web App (UI Only)
 
 for admin side key is: 321
@@ -75,6 +105,16 @@ Repo: https://github.com/ABIDULLAH786/coop-chat-app
 ![image](https://github.com/user-attachments/assets/e30c5fcd-e9a0-4b7a-a82f-6df37de4414b)
 
 ---------------
+## Presentation Desing
+
+Demo: https://funfox-slides-using-react.vercel.app/2
+
+Repo: https://github.com/ABIDULLAH786/funfox-slides-using-react
+
+![screencapture-funfox-slides-using-react-vercel-app-2-2025-07-03-04_30_22](https://github.com/user-attachments/assets/9487264d-e225-4b1b-bf42-fb835ef928d5)
+
+
+---------
 
 ## QR Code Generator
 
